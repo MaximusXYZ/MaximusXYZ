@@ -2,7 +2,7 @@
 <p align="center" style="text-align: center; font-size: 20px;">
 I'm 16 years old, I live in Antalya/Turkey.<br></p>
 <div align="center">
-    <a href="https://discord.com/users/708952622375239690" bg:"blue" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/708952622375239690?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/708952622375239690"></a>
+    <a href="https://discord.com/users/708952622375239690" bg:"blue" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/708952622375239690?theme=dark&bg=B62000&animated=true&hideDiscrim=true&borderRadius=50px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/708952622375239690"></a>
 </div>
 <img src="https://cdn.discordapp.com/banners/708952622375239690/a_1e4d5c7134ccb66a064e6fef130f4a7a.gif?size=1024" width="auto">
 
