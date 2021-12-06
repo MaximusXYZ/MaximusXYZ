@@ -1,6 +1,9 @@
 <h1 align="center">Hello there, I'm Emir.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center" style="text-align: center; font-size: 20px;">
 I'm 16 years old, I live in Antalya/Turkey.<br></p>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=MaximusXYZ&color=dc143c"/>
+</div>
 <img src="https://cdn.discordapp.com/banners/708952622375239690/a_1e4d5c7134ccb66a064e6fef130f4a7a.gif?size=1024" width="auto">
 
 
