@@ -4,7 +4,6 @@ I'm 16 years old, I live in Antalya/Turkey.<br></p>
 <div align="center">
     <a href="https://discord.com/users/708952622375239690" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/708952622375239690"></a>
 </div>
-
 <img src="https://cdn.discordapp.com/banners/708952622375239690/a_1e4d5c7134ccb66a064e6fef130f4a7a.gif?size=1024" width="auto">
 
 
