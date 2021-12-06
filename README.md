@@ -1,9 +1,6 @@
 <h1 align="center">Hello there, I'm Emir.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center" style="text-align: center; font-size: 20px;">
 I'm 16 years old, I live in Antalya/Turkey.<br></p>
-<div align="center">
-    <a href="https://discord.com/users/708952622375239690" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/708952622375239690"></a>
-</div>
 <img src="https://cdn.discordapp.com/banners/708952622375239690/a_1e4d5c7134ccb66a064e6fef130f4a7a.gif?size=1024" width="auto">
 
 
@@ -17,7 +14,9 @@ I'm 16 years old, I live in Antalya/Turkey.<br></p>
     <a href="https://instagram.com/lilemirr7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://github.com/MaximusXYZ" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
 
-
+<div align="center">
+    <a href="https://discord.com/users/708952622375239690" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/708952622375239690"></a>
+</div>
 <div>
 <h1 align="center">
   Using technologies
