@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Emir.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center" style="text-align: center; font-size: 20px;">
-I'm 16 years old, I live in Antalya/Turkey.<br></p>
+I'm 17 years old, I live in Antalya/Turkey.<br></p>
 <div align="center">
     <a href="https://discord.com/users/708952622375239690" bg:"blue" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/708952622375239690?theme=dark&bg=7A1600&animated=true&hideDiscrim=true&borderRadius=50px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/708952622375239690"></a>
 </div>
